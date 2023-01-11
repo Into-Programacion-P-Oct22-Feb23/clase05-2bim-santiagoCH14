@@ -15,6 +15,7 @@ public class Ejemplo06 {
         // [0][0]
         // [1][1]
         // hasta el final
+        
         for (int i = 0; i < valor1.length; i++) {
             //System.out.printf("El valor es: %d\n",
             //obtenerSuma(valor1[i], valor2[i]));
